@@ -1,3 +1,4 @@
-hello/Controllers/HelloController.class
 hello/Controllers/PostController.class
 hello/Application.class
+hello/Controllers/HelloController.class
+hello/ApplicationConfiguration.class
