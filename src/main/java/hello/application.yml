@@ -1,0 +1,5 @@
+myconfig:
+    app-name: Getting started
+    app-description: ${myconfig.app-name} Lorem ipsum
+    admin-first-name: Dan
+    adminEmail: borjarafols@gmail.com
